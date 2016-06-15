@@ -18,6 +18,7 @@ Please see the initial [documentation](http://go.microsoft.com/fwlink/?LinkId=69
 - [Slack](/samples/SlackReceiver)
 - [Stripe](/samples/StripeReceiver)
 - [Zendesk](/samples/ZendeskReceiver)
+- [Custom Receiver (PHP)] (https://gist.github.com/gbaldera/aa40aa70bc54582e7e8050cadd72470b)
 
 ###Resources
 * Overview
